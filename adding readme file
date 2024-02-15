@@ -1,0 +1,8 @@
+## Playwright iFrame Automation
+
+If you've ever worked with web automation, you're likely familiar with iframes. 
+Iframes (Inline Frames) are HTML elements used to embed another document within the current HTML document. 
+Nested iframes occur when one iframe contains another iframe within it. 
+Handling iframes and nested iframes can be challenging in automation testing as it requires switching context between different frames
+
+This repository contains automation code leveraging Playwright, a powerful tool for browser automation, to handle iframes and nested iframes effectively.
